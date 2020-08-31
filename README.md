@@ -1,4 +1,4 @@
-# Image-Processing-|-Discrete-Cosine-Transform-and-Quantization
+# Image-Processing-Discrete-Cosine-Transform-and-Quantization
 Image Processing - Discrete Cosine Transform and Quantization algorithm
 
 Developing a DCT algorithm to encode images in YUV format, Using 8x8 block and computing the DCT coefficients, then using a quantization matrix and reconstructing the images using IDCT and Computing the PSNR between the Source Image and the Reconstructed Image.
